@@ -1,0 +1,6 @@
+read A
+read B
+product := A * B
+product2 := ((product * A * B) + (A * B * something)) + someValue
+sum := product + product2
+product3 := A + B * product
